@@ -1,0 +1,104 @@
+.cook{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.order{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 230px;
+
+}
+
+ .how{
+    color: white;
+    text-align: center;
+    font-size: 40px; */
+
+} 
+
+ .choese{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+ } 
+
+/* .bahrain-wrapper {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 150px;
+    top: 600px;
+    background-color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 60px;
+} */
+
+/* .emirates-wrapper {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 150px;
+    top: 600px;
+    background-color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 60px;
+} */
+
+/* .riyadh-wrapper {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 150px;
+    top: 600px;
+    background-color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 60px;
+} */
+
+/* .turkey-wrapper {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 150px;
+    top: 600px;
+    background-color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 60px;
+} */
+
+/* .bahrain-link{
+    border: 3px solid green;
+    position: relative;
+    top: 80px;
+    right: 250px;
+} */
+
+/* .riyadh-link{
+    border: 3px solid green;
+    position: relative;
+    top: 225px;
+    left: 600px;
+} */
+
+/* .emirates-link{
+    border: 3px solid green;
+    position: relative;
+    top: 300px;
+    right: 110px;
+} */
+
+/* .turkey-link{
+    border: 3px solid green;
+    position: relative;
+    bottom: 150px;
+    right: 110px; 
+} */

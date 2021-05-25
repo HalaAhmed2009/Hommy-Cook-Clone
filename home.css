@@ -1,0 +1,189 @@
+body {
+    background-image: url(./background.jpg);
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: contain;
+}
+
+ .logo{
+     display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 50px;
+   
+}
+
+
+.hommycook{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 170px;
+}
+
+
+.hommy{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Almarai', sans-serif;
+
+}
+
+
+.cook{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Almarai', sans-serif;
+
+}
+
+.order{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 230px;
+    font-family: 'Almarai', sans-serif;
+
+}
+
+ .how{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+} 
+
+ .choese{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+ }
+
+.cities-wrapper {
+    margin-top: 320px;
+}
+
+.first-row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.second-row {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 180px;
+
+}
+
+.bahrain-wrapper {
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-style: dashed;
+    border-radius: 15px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bahrain-link {
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Almarai', sans-serif;
+}
+
+.emirates-wrapper {
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-style: dashed;
+    border-radius: 15px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.emirates-link {
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Almarai', sans-serif;
+
+}
+
+.saudi-wrapper {
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-style: dashed;
+    border-radius: 15px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.saudi-link {
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Almarai', sans-serif;
+}
+
+.turkey-wrapper {
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-style: dashed;
+    border-radius: 15px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.turkey-link {
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Almarai', sans-serif;
+}
+
+
+.bahrain {
+    border-radius: 15px;
+    
+    
+}
+
+.saudi {
+    border-radius: 15px;
+    
+}
+
+.emirates {
+    border-radius: 15px;
+}
+
+.turkey {
+    border-radius: 15px;
+}
+
