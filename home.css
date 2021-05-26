@@ -93,6 +93,8 @@ body {
     width: 450px;
     display: flex;
     flex-direction: column;
+
+    
 }
 
 .bahrain-link {
@@ -187,3 +189,12 @@ body {
     border-radius: 15px;
 }
 
+@media screen and (max-width: 1047px) {
+    .bahrain-wrapper {
+        margin-bottom: 200px;
+    }
+
+    .emirates-wrapper {
+        margin-bottom: 200px;
+    }
+}
